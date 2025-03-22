@@ -1,0 +1,180 @@
+{
+    "Index": {
+        "posts": "posts",
+        "workflow": "Quy trình làm việc",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "logout": "Đăng xuất",
+        "myprofile": "Hồ sơ",
+        "mysolution": "Dự án của tôi",
+        "title": "Trang chủ",
+        "home": "Trang chủ",
+        "solutions": "Giải pháp",
+        "templates": "Mẫu",
+        "contact": "Liên hệ",
+        "viewmore": "Xem nhiều hơn",
+        "contactdesc": "Vui lòng điền thông tin của bạn và chúng tôi sẽ phản hồi bạn sớm nhất có thể.",
+        "faq": "Câu hỏi thường gặp",
+        "sortdescdesktop": "Phát triển các ứng dụng máy tính để bàn và các giải pháp đa nền tảng sử dụng Java và C#. Chuyên phát triển các công cụ, ứng dụng và nền tảng.",
+        "sortdescmobile": "Tạo ứng dụng di động hỗ trợ đa nền tảng bằng các công nghệ tiên tiến. Thành thạo Java và Flutter để phát triển ứng dụng di động liền mạch.",
+        "sortdescweb": "Xây dựng các ứng dụng web hiện đại với các công nghệ web mới nhất. Chuyên về các nền tảng có khả năng mở rộng, thiết kế đáp ứng và kiến trúc mạnh mẽ."
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "Zu {locale, select, de {Deutsch} en {Englisch} other {Unbekannt}} wechseln"
+    },
+    "PageLayout": {
+        "pageTitle": "next-intl"
+    },
+    "DashboardLanguage": {
+        "deposit": "Nạp tiền",
+        "profile": "Hồ sơ",
+        "change_password": "Đổi mật khẩu",
+        "itcategory": "Loại công nghệ",
+        "newproject": "Dự án mới",
+        "refund": "Refunds",
+        "refund": "Hoàn tiền",
+        "cashflow": "Dòng tiền",
+        "home": "Trang chủ",
+        "technology": "Công nghệ",
+        "language": "Ngôn ngữ",
+        "contact": "Liên hệ",
+        "setting": "Thiết lập",
+        "service": "Dịch vụ",
+        "category": "Thể loại",
+        "payment-history": "Lịch sử thanh toán",
+        "project": "Dự án",
+        "log": "Nhật ký",
+        "user": "Người dùng",
+        "profile": "Hồ sơ"
+    },
+    "FormLanguage": {
+        "fullname": "Tên",
+        "phone": "Điện thoại",
+        "email": "Email",
+        "description": "Nội dung",
+        "submit": "Gửi",
+        "update_profile": "Cập nhật thông tin"
+    },
+    "CreateSolutionSteps": {
+        "receiveproject": "Nhận yêu cầu dự án",
+        "receiveprojectdesc": "Thu thập thông tin chi tiết và yêu cầu của dự án từ người dùng.",
+        "vertify": "Xác thực & Xác minh",
+        "vertifydesc": "Xác nhận danh tính người dùng và xác thực thông tin dự án.",
+        "processingrequest": "Xử lý yêu cầu dự án",
+        "processingrequestdesc": "Xem xét và chuẩn bị dự án cho các bước tiếp theo.",
+        "complete": "Hoàn thành",
+        "completedesc": "Hoàn thiện và bàn giao dự án cho người dùng."
+    },
+    "SolutionPage": {
+        "our": "Các",
+        "arebuilt": "của chúng tôi được xây dựng cho các doanh nghiệp cần các giải pháp mạnh mẽ, đáng tin cậy. Chúng tôi cung cấp các ứng dụng nâng cao năng suất, tự động hóa các tác vụ và tích hợp với các hệ thống hiện có của bạn, đồng thời đảm bảo",
+        "At": "Tại",
+        "buildnow": "Xây dựng ngay",
+        "performance": "hiệu suất",
+        "scalability": "khả năng mở rộng",
+        "flexibility": "linh hoạt",
+        "customwebsolutions": "giải pháp web tùy chỉnh",
+        "custommobileapps": "ứng dụng di động tùy chỉnh",
+        "highperformance": "hiệu suất cao",
+        "customdesktopapplications": "ứng dụng máy tính tùy chỉnh",
+        "userfriendliness": "thân thiện với người dùng",
+        "crossplatformapps": "ứng dụng đa nền tảng",
+        "weoffer": "chúng tôi cung cấp",
+        "tailoredtobusinesses": " phù hợp với doanh nghiệp",
+        "ourwebsites": "Các trang web của chúng tôi được thiết kế để đảm bảo tính ",
+        "and": "và",
+        "weprovide": "Chúng tôi cung cấp thiết kế web đáp ứng yêu cầu và giải pháp. Giúp mang lại trải nghiệm người dùng liền mạch và nâng cao sự hiện diện cho cá nhân và doanh nghiệp.",
+        "wespeci": "Chúng tôi chuyên tạo",
+        "for": "cho",
+        "ourapp": "Ứng dụng của chúng tôi được thiết kế để cung cấp trải nghiệm người dùng liền mạch với",
+        "whetheryouneed": "Chúng tôi đảm bảo đáp ứng nhu cầu kinh doanh của bạn và thu hút đối tượng của bạn một cách hiệu quả.",
+        "wedev": "Chúng tôi phát triển",
+        "thatwork": "hoạt động liền mạch trên iOS, Android và web. Các giải pháp của chúng tôi cung cấp trải nghiệm người dùng nhất quán và đảm bảo",
+        "acrossalldevices": "trên mọi thiết bị, giúp bạn tiếp cận đối tượng rộng hơn mà không ảnh hưởng đến chất lượng."
+    },
+    "Auth": {
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "forgot": "Quên mật khẩu",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "fullname": "Họ và tên",
+        "donthaveanaccount": "Bạn chưa có tài khoản?",
+        "already": "Bạn đã có tài khoản?"
+    },
+    "Posts": {
+        "restfulweb": "Dịch vụ Web Restful",
+        "custommizeweb": "Tùy chỉnh giao diện web và API, cung cấp môi trường client-server hiện đại, an toàn và trực quan.",
+        "withaflex": "Với giao diện linh hoạt và hệ thống thành phần được tối ưu hóa, các ứng dụng web trở nên trực quan, thân thiện với người dùng và có độ phản hồi cao.",
+        "linuxfordev": "Linux cho phát triển",
+        "linuxoffer": "Linux cung cấp một môi trường phát triển mạnh mẽ và linh hoạt, lý tưởng cho các dự án phần mềm hiện đại.",
+        "farvored": "Là lựa chọn hàng đầu cho lập trình viên và doanh nghiệp nhờ tính ổn định vượt trội, linux cung cấp khả năng tùy chỉnh linh hoạt và hệ sinh thái hỗ trợ mạnh mẽ, – một lựa chọn cho lập trình viên phát triển phần mềm.",
+        "automation": "Công cụ tự động hóa CLI",
+        "deve": "Phát triển các công cụ dòng lệnh để tự động hóa quy trình làm việc và nâng cao hiệu suất.",
+        "withcus": "Với các tính năng tùy chỉnh và linh hoạt, công cụ CLI giúp tăng năng suất, tự động hóa các tác vụ lặp đi lặp lại và cải thiện hiệu quả làm việc."
+    },
+    "Order": {
+        "need1dollar": "Bạn cần trả trước 1$ để xác minh đơn hàng. Vui lòng đảm bảo đơn hàng của bạn trước khi tiếp tục.",
+        "canuploadfile": "Bạn có thể tải lên các tập tin tài liệu và hình ảnh liên quan đến dự án.",
+        "name": "Tên giải pháp",
+        "category": "Lọại giải pháp",
+        "description": "Thông tin mô tả",
+        "technologiesused": "Công nghệ sử dụng",
+        "projectcategory": "Loại dự án",
+        "selectfiles": "Chọn tệp",
+        "banktranfer": "Chuyển khoản ngân hàng",
+        "frommyaccount": "Từ tài khoản của tôi"
+    },
+    "paymentType": {
+        "confirm": "Xác nhận",
+        "partial": "Thanh toán một phần",
+        "full": "Thanh toán toàn bộ"
+    },
+    "PlaceHoder": {
+        "search": "Tìm kiếm...",
+        "selectlanguage": "Chọn ngôn ngữ",
+        "selecttechnology": "Chọn công nghệ"
+    },
+    "table": {
+        "no": "STT",
+        "name": "Tên",
+        "status": "Trạng thái",
+        "email": "Email",
+        "technologies": "Công nghệ",
+        "price": "Giá",
+        "duration": "Thời gian",
+        "createdAt": "Ngày tạo",
+        "action": "Hành động"
+    },
+
+    "status": {
+        "initialize": "Khởi tạo",
+        "in_progress": "Đang tiến hành",
+        "pending": "Đang chờ",
+        "completed": "Hoàn thành",
+        "canceled": "Đã hủy"
+    },
+    "statistics": {
+        "solutions": "Giải pháp",
+        "funds": "Tổng tiển",
+        "remains": "Còn lại",
+        "notifications": "Thông báo",
+        "projectRevenue": "Doanh thu dự án theo tháng"
+    },
+    "changepassword": {
+        "current_password": "Mật khẩu hiện tại",
+        "new_password": "Mật khẩu mới",
+        "confirm_new_password": "Xác nhận mật khẩu mới",
+        "update": "Cập nhật",
+        "password_changed_success": "Đổi mật khẩu thành công",
+        "password_change_failed": "Đổi mật khẩu thất bại",
+        "password_mismatch": "Mật khẩu mới không khớp"
+    },
+    "OrderState": {
+        "next": "Tiếp",
+        "checking": "Chờ xác thực...",
+        "done": "Xong",
+        "validation_expired": "Xác thực hết hạn!",
+        "insufficientbalance":"Số dư không đủ!"
+    }
+}

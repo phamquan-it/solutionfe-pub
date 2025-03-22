@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "~@flaticon/flaticon-uicons/css/all/all.css";
+body {
+    background-color: #eee;
+}
+.container-common {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.ant-form-item
+    .ant-form-item-label
+    > label.ant-form-item-required:not(
+        .ant-form-item-required-mark-optional
+    )::before {
+    display: none !important;
+}
+
+.ant-form-item
+    .ant-form-item-label
+    > label.ant-form-item-required:not(
+        .ant-form-item-required-mark-optional
+    )::after {
+    display: inline-block !important;
+    content: "*";
+    color: red;
+}
+.ant-layout-sider-light .ant-layout-sider-trigger {
+    background: transparent !important;
+}
+
+.ant-layout-sider-zero-width-trigger {
+    width: 15px !important;
+    transform: translateX(-25px);
+}
+
+div.sticky1 {
+    position: sticky;
+    top: 0;
+}
+
+.ant-list-vertical
+    .ant-list-item
+    .ant-list-item-meta
+    .ant-list-item-meta-title {
+    margin-bottom: 0px !important;
+}
+
+.ant-list-vertical .ant-list-item .ant-list-item-meta {
+    margin-block-end: 8px !important;
+}
+
+/* width */
+.slide-menu::-webkit-scrollbar {
+    width: 2px;
+}
+.slide-menu::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+}
+
+.slide-form::-webkit-scrollbar {
+    width: 2px;
+}
+
+/* Track */
+.slide-form::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+/* Handle */
+.slide-form:hover.slide-form::-webkit-scrollbar-thumb {
+    background: rgba(0,0,0,0.06);
+    height: 10px;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+.slide-form::-webkit-scrollbar-thumb {
+    height: 10px; /* Điều chỉnh chiều cao của thanh cuộn */
+    background: transparent; /* Mặc định ẩn */
+     transition: background 0.3s;
+}

@@ -1,0 +1,184 @@
+{
+    "Index": {
+        "posts": "posts",
+        "workflow": "Workflows",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "myprofile": "Profile",
+        "mysolution": "My solutions",
+        "title": "Home",
+        "home": "Home",
+        "solutions": "Solutions",
+        "templates": "Templates",
+        "contact": "Contact",
+        "viewmore": "View more",
+        "contactdesc": "Please fill in your information, and we will get back to you as soon as possible.",
+        "faq": "Fast A Question",
+        "sortdescdesktop": "Developing desktop applications and cross-platform solutions using modern technologies, including Java and C#. Expertise in setting up tools, applications, and platforms.",
+        "sortdescmobile": "Creating mobile applications with cross-platform support using cutting-edge technologies. Proficient in Java and Flutter for seamless mobile app development.",
+        "sortdescweb": "Building modern web applications with the latest web technologies. Specializing in scalable platforms, responsive design, and robust architectures."
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "Switch to {locale, select, de {German} en {English} other {Unknown}}"
+    },
+    "PageLayout": {
+        "pageTitle": "next-intl"
+    },
+    "DashboardLanguage": {
+        "deposit":"Deposit",
+        "profile":"Profile",
+        "change_password":"Change password",
+        "newproject": "New project",
+        "itcategory": "ITCategories",
+        "refund": "Refunds",
+        "cashflow": "Cashflows",
+        "home": "Home",
+        "technology": "Technologies",
+        "language": "Languages",
+        "contact": "Contacts",
+        "setting": "Settings",
+        "service": "Services",
+        "category": "Catefories",
+        "payment-history": "Payment history",
+        "project": "Projects",
+        "log": "Log",
+        "user": "Users",
+        "profile": "Profile"
+    },
+    "FormLanguage": {
+        "phone":"Phone",
+        "fullname": "Full name",
+        "email": "Email",
+        "description": "Description",
+        "submit": "Submit",
+        "update_profile":"Update profile"
+    },
+    "CreateSolutionSteps": {
+        "receiveproject": "Receive Project Request",
+        "receiveprojectdesc": "Collect project details and requirements from the user.",
+        "vertify": "Authenticate & Verify",
+        "vertifydesc": "Confirm user identity and validate project information.",
+        "processingrequest": "Processing Request",
+        "processingrequestdesc": "Review and prepare the project for the next steps.",
+        "complete": "Completion",
+        "completedesc": "Successfully finalize and deliver the project to the user."
+    },
+    "Footer": {
+        "social": "Socials",
+        "product": "Products",
+        "builder": "Builders"
+    },
+    "SolutionPage": {
+        "our": "Our",
+        "arebuilt": "are built for businesses that need powerful and reliable solutions. We deliver applications that enhance productivity, automate tasks, and seamlessly integrate with your existing systems while ensuring",
+        "At": "At",
+        "buildnow": "Build now",
+        "performance": "performance",
+        "scalability": "scalability",
+        "flexibility": "flexibility",
+        "customwebsolutions": "custom web solutions",
+        "custommobileapps": "custom mobile applications",
+        "highperformance": "high performance",
+        "customdesktopapplications": "custom desktop applications",
+        "userfriendliness": "user-friendliness",
+        "crossplatformapps": "cross-platform applications",
+        "weoffer": "we offer",
+        "tailoredtobusinesses": "tailored to businesses",
+        "ourwebsites": "Our websites are designed to ensure ",
+        "and": "and",
+        "weprovide": "We provide responsive web design and tailored solutions to deliver a seamless user experience and enhance the online presence of individuals and businesses.",
+        "wespeci": "We specialize in developing",
+        "for": "for",
+        "ourapp": "Our applications are designed to provide a seamless user experience with",
+        "whetheryouneed": "We ensure that your business needs are met and that your audience is effectively engaged.",
+        "wedev": "We develop",
+        "thatwork": "that work seamlessly across iOS, Android, and web. Our solutions provide a consistent user experience and ensure",
+        "acrossalldevices": "across all devices, helping you reach a wider audience without compromising quality."
+    },
+    "Auth": {
+        "login": "Login",
+        "register": "Register",
+        "forgot": "Forgot",
+        "email": "Email",
+        "password": "Password",
+        "fullname": "Full name",
+        "donthaveanaccount": "Don't have an account?",
+        "already": "Already have an account?"
+    },
+    "Posts": {
+        "restfulweb": "Restful Web Services",
+        "custommizeweb": "Customize web interfaces and APIs, providing a modern, secure, and intuitive client-server environment.",
+        "withaflex": "With a flexible interface and an optimized component system, web applications become more intuitive, user-friendly, and highly responsive.",
+        "linuxfordev": "Linux for development",
+        "linuxoffer": "Linux offers a powerful and flexible development environment, ideal for modern software projects.",
+        "farvored": "Favored by developers for its stability, open-source nature, and extensive support ecosystem.",
+        "automation": "Automation Tool for CLI",
+        "deve": "Develop command-line automation tools to streamline workflows and improve efficiency.",
+        "withcus": "With customizable and flexible features, CLI tools enhance productivity, automate repetitive tasks, and improve workflow efficiency."
+    },
+    "Order": {
+        "need1dollar": "You need to pay $1 to verify your order. Please ensure your order before proceeding.",
+        "canuploadfile": "You can upload document files and images related to the required projects.",
+        "name": "Solution Name",
+        "category": "Solution Category",
+        "description": "Details",
+        "technologiesused": "Technologies Used",
+        "projectcategory": "Project Category",
+        "selectfiles": "Select Files",
+        "banktranfer": "Bank Transfer",
+        "frommyaccount": "From My Account"
+    },
+    "paymentType": {
+        "confirm": "Confirm",
+        "partial": "Partial Payment",
+        "full": "Full Payment"
+    },
+    "PlaceHoder": {
+        "search": "Search...",
+        "selectlanguage": "Select language",
+        "selecttechnology": "Select technollogy"
+    },
+    "table": {
+        "no": "No.",
+        "name": "Name",
+        "status": "Status",
+        "email": "Email",
+        "technologies": "Technologies",
+        "price": "Price",
+        "duration": "Duration",
+        "createdAt": "Create at",
+        "action": "Action"
+    },
+
+    "status": {
+        "initialize": "Initialize",
+        "in_progress": "In Progress",
+        "pending": "Pending",
+        "completed": "Completed",
+        "canceled": "Canceled"
+    },
+    "statistics": {
+        "solutions": "Solutions",
+        "funds": "Total",
+        "remains": "Remains",
+        "notifications": "Notifications",
+        "projectRevenue": "Project Revenue by Month"
+    },
+    "changepassword": {
+        "current_password": "Current Password",
+        "new_password": "New Password",
+        "confirm_new_password": "Confirm New Password",
+        "update": "Update",
+        "password_changed_success": "Password changed successfully",
+        "password_change_failed": "Failed to change password",
+        "password_mismatch": "New passwords do not match"
+    },
+    "OrderState":{
+        "next":"Next",
+        "checking":"Checking...",
+        "done": "Done",
+        "validation_expired":"Validation expired",
+        "insufficientbalance":"Insufficient balance!"
+    }
+}
