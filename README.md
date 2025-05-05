@@ -1,41 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 solutionfe-pub
 
-## Getting Started
+**solutionfe-pub** is the public-facing frontend for the Soluti0n platform, built with [Next.js](https://nextjs.org). It offers a modern, fast, and interactive web experience tailored for showcasing livestream content, analytics, or public data dashboards.
 
-First, run the development server:
+---
+
+## 🚀 Getting Started
+
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 🧭 Project Structure
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- `app/`: Main routing and page components using the App Router.
+- `components/`: Shared, reusable UI components (headers, cards, lists).
+- `lib/`: Utility functions, API fetchers, and helper logic.
+- `styles/`: Tailwind CSS config and global styles.
+- `public/`: Static files such as logos, icons, and images.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 💡 Core Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🔍 **Livestream or public content discovery**: Browsing live streams, featured content, or public analytics.
+- 🖼️ **Dynamic UI**: Powered by Tailwind CSS with responsive design.
+- 📡 **API integration**: Fetch and display data from backend services via REST or GraphQL.
+- ⚙️ **Configurable deployment**: Easily connected with backend environments via `.env` settings.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📦 Technologies Used
 
-## Deploy on Vercel
+- **Next.js 14** – For server-rendered and statically generated pages.
+- **TypeScript** – Static typing for scalability and developer confidence.
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
+- **React** – Component-based rendering with hooks and modern architecture.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# solutionfe-pub
+## 🔧 Environment Configuration
+
+Create a `.env.local` file in the root directory and include variables like:
+
+```env
+NEXT_PUBLIC_API_URL=
+NEXT_PUBLIC_SITE_NAME=Soluti0n
+```
+
+---
+
+## 📈 Future Plans
+
+- ✨ Add animation and transition support via Framer Motion.
+- 🌍 Internationalization (i18n) for multi-language support.
+- 📲 PWA support for mobile devices.
+- 🔒 OAuth integration for private/public stream separation.
+
+---
+
+## 📬 Contributing
+
+Open to suggestions and improvements via pull requests or issues. If you're using this template in your own project, feel free to fork and customize.
+
+---
+
+**© 2025 – Soluti0n Team**
