@@ -7,7 +7,7 @@
 ## 🚀 Getting Started
 
 Install dependencies:
-
+Back-end: https://github.com/phamquan-it/solutionbe-pub
 ```bash
 npm install
 # or
