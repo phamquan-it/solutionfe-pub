@@ -1,4 +1,4 @@
-# 🌐 solutionfe-pub
+# 🌐 solution
 
 **solutionfe-pub** is the public-facing frontend for the Soluti0n platform, built with [Next.js](https://nextjs.org). It offers a modern, fast, and interactive web experience tailored for showcasing livestream content, analytics, or public data dashboards.
 
